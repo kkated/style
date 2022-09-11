@@ -2,3 +2,23 @@
     background-color: darksalmon;
     font-family: verdana, sans-serif, arial;
 }
+
+#two {
+    color: blue;
+    font-size: 36px;
+    ;
+}
+
+.oddly-cool {
+    background-color: darksalmon;
+    font-family: verdana, sans-serif, arial;
+    font-size: 24px;
+
+
+}
+
+#four {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
